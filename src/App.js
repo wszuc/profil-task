@@ -98,7 +98,6 @@ function addForm(type) {
             console.error('Unexpected input')
             break
     }
-
     render()
     listen()
 }
